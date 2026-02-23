@@ -15,8 +15,6 @@ Backend Developer | Future Software Development Engineer<br><br>ECE undergraduat
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bosevetrivelram47&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bosevetrivelram47&layout=compact&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Bosevetrivelram47&icon=0&color=0)](https://visitcount.itsvg.in)
 
