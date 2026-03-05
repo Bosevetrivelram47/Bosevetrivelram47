@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.png" width="180"/>
+</p>
+
 # 💫 About Me:
 Backend Developer | Future Software Development Engineer<br><br>ECE undergraduate focused on mastering Backend Engineering and building scalable systems.<br>Experienced in Java, Spring Boot and ReactJS to develop secure and efficient applications.<br><br>Currently deep-diving into System Design and sharpening core fundamentals with daily DSA practice.<br>
 
